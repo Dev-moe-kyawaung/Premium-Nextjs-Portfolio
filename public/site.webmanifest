@@ -1,0 +1,17 @@
+{
+  "name": "Dev-moe-kyawaung Portfolio",
+  "short_name": "DevPortfolio",
+  "description": "Premium portfolio website of Dev-moe-kyawaung",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48 32x32 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
+
