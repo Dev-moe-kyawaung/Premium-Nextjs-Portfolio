@@ -1,0 +1,7 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "cd main-premium-nextjs && npm install && npm run build",
+  "outputDirectory": "main-premium-nextjs/.next",
+  "installCommand": "npm install",
+  "devCommand": "cd main-premium-nextjs && npm run dev"
+}
